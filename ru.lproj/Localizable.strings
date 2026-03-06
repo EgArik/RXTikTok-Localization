@@ -161,7 +161,6 @@
 "Bypass Media Limit" = "Обойти лимит медиа";
 "Disable AI-Generated Replies" = "Отключить ответы, сгенерированные ИИ";
 "Enable Small Emoji" = "Включить маленькие эмодзи";
-"Anonymous Seen" = "Включить нечиталку";
 
 // MARK: - Playback Speed
 "Enable Playback Speed" = "Изменить скорость видео";
@@ -243,16 +242,12 @@
 "FEATURE_BYPASS_MEDIA_LIMIT" = "Обходит лимит медиа в чате (по умолчанию: 9 фото, 1 мин. видео)";
 "FEATURE_DISABLE_AI_REPLIES" = "Отключает ответы ИИ на отправленные посты";
 "FEATURE_SMALL_EMOJI" = "Включает отправку маленьких эмодзи";
-"FEATURE_REMOVE_PENDANT" = "Удаляет рекламный баннер в верхнем левом углу экрана (только в некоторых регионах)";
-"FEATURE_HIDE_DANGEROUS_ACTION" = "Скрывает предупреждения под спортивными видео";
-"FEATURE_SHOW_VIDEO_TIMESTAMP" = "Показывает время выгрузки поста рядом с именем пользователя в ленте";
 "FEATURE_HIDE_COMMISSION_POSTS" = "Удаляет посты с пометкой 'Автор получает комиссию'";
 
 // Comment Settings Descriptions
 "ENABLE_COMMENT_PHOTO" = "Включает кнопку отправки фото в комментарии";
 "ENABLE_COMMENT_STICKERS" = "Включает кнопку отправки стикеров в комментарии";
 "FEATURE_DISABLE_COMMENT_TOOLTIP" = "Отключает всплывающие подсказки в комментариях";
-"FEATURE_ADD_TRANSLATION" = "Добавляет кнопку перевода в комментарии";
 "FEATURE_ADD_COMMENT_POST" = "Разрешает публикацию комментариев как постов";
 "FEATURE_ADD_COMMENT_STORY" = "Разрешает публикацию комментариев как историй";
 "FEATURE_MASS_UNFOLD" = "Раскрывает все ответы на комментарии";
@@ -260,8 +255,6 @@
 "FEATURE_MULTI_EMOJI" = "Включает панель для нескольких эмодзи в комментариях";
 "FEATURE_HIDE_EMOJI" = "Скрывает панель эмодзи в комментариях";
 "FEATURE_COMMENT_REDESIGN" = "Включить обновленный дизайн комментариев";
-"FEATURE_COPY_WITHOUT_USERNAME" = "Копирует комментарии без 'Имя пользователя: '";
-"FEATURE_ENABLE_COMMENT_FLAGS" = "Показывает флаг региона комментатора";
 
 // v1.1
 
@@ -367,8 +360,7 @@
 "Cancelled" = "Отмена";
 
 // MARK: - Features View
-"Support"="Донат";
-
+"Support" = "Донат";
 "Select App Language" = "Выберите язык";
 
 // 1.3  
@@ -399,7 +391,6 @@
 "Extracting Media URL…" = "Вытаскивание URL Медиа…"; 
 "Invalid download URL received." = "Получен неверный URL загрузки."; 
 "Failed to fetch HD video URL. Please try again." = "Не удалось получить URL этого HD видео. Повторите попытку позже.";
-
 "Enable Egypt Stickers" = "Включить стикеры Египта";
 
 
@@ -444,7 +435,6 @@
 
 // MARK: - Missing Alert and UI Strings
 "Reset Settings" = "Сброс Настроек";
-"Are you sure you want to reset all settings to default values? This action cannot be undone." = "Вы уверены, что Вы хотите сбросить все настройки до стандартных значений? Это действие не может быть отменено.";
 "Erase All Data" = "Стереть Все Данные";
 "Are you sure you want to erase all TikTok data? This will clear all app data and cannot be undone." = "Вы уверены, что Вы хотите стереть все данные TikTok? Это действие очистит все данные приложения, оно не может быть отменено.";
 "Erase" = "Стереть";
@@ -455,9 +445,6 @@
 
 // MARK: - Missing Navigation and Menu Strings
 "Speeds" = "Скорости";
-"Live Actions" = "Действия с Live";
-"RXTikTok Settings" = "Настройки RXTikTok";
-
 "BETA!" = "БЕТА!";
 
 // MARK: - Menu Manager Strings
@@ -503,8 +490,6 @@
 "REMOVE_TIKTOK_AI_BUTTON" = "Удалить кнопку TikTok AI";
 "WARNING" = "ПРЕДУПРЕЖДЕНИЕ";
 "DISABLE_ACTIVITY_STATUS_WARNING" = "Отключение или включение анонимного статуса активности занимает время для отражения на серверах TikTok. Вы можете оставаться в сети какое-то время после включения этой функции.";
-"BLOCK_SHOP_VIDOES" = "Блокировать магазинные видео";
-"BLOCK_SHOP_VIDOES_FEATURE" = "Удаляет магазинные видео из ленты.";
 "PAD_AUTO_SCROLL" = "Автопрокрутка по умолчанию";
 "FEATURE_PAD_AUTO_SCROLL" = "Включает нативную автопрокрутку постов TikTok для неподдерживаемых регионов";
 "SAVE_DM_MEDIA" = "Сохранять медиа из личных сообщений";
@@ -513,4 +498,41 @@
 "DISABLE_FEED_DOUBLE_TAP" = "Отключить двойное нажатие в ленте";
 "FEATURE_DISABLE_STORY_DOUBLE_TAP" = "Отключает двойное нажатие для лайка в историях";
 "DISABLE_STORY_DOUBLE_TAP" = "Отключить двойное нажатие в историях";
+"BLOCK_SHOP_VIDOES" = "Блокировать магазинные видео";
+"BLOCK_SHOP_VIDOES_FEATURE" = "Удаляет магазинные видео из ленты.";
 
+// 1.6
+
+"FEATURE_ENABLE_STICKER_DOWNLOAD" = "Включает загрузку стикеров в комментариях";
+"ENABLE_STICKER_DOWNLOAD" = "Двойное нажатие для скачивания стикера";
+"STICKER_SAVED" = "Стикер сохранен в галерею!";
+"STICKER_SAVE_FAILED" = "Не удалось сохранить стикер";
+"DOWNLOAD_FAILED" = "Ошибка загрузки";
+"DOWNLOADING_STICKER" = "Загрузка стикера...";
+
+"FILTERING_OPTIONS" = "Опции фильтрации";
+"BLOCK_MOVIE_TOK" = "Блокировать рекламу фильмов";
+"FEATURE_BLOCK_MOVIE_TOK" = "Блокирует видео с рекламой фильмов";
+
+"BLOCK_AI_GENERATED" = "Блокировать посты с ИИ";
+"FEATURE_BLOCK_AI_GENERATED" = "Блокирует посты с пометкой 'Содержит сгенерированный ИИ контент'";
+"FEATURE_CONFIRM_QUICK_SHARE" = "Запрашивает подтверждение перед быстрой пересылкой";
+"FEATURE_CONFIRM_REPOST" = "Запрашивает подтверждение перед репостом видео";
+"CONFIRM_QUICK_SHARE" = "Подтверждение быстрой пересылки";
+"CONFIRM_REPOST" = "Подтверждение быстрого репоста";
+
+"BLOCK_SHOP_VIDEOS" = "Блокировать посты магазинов";
+"FEATURE_BLOCK_SHOP_VIDEOS" = "Удаляет посты с магазином из ленты";
+"BLOCK_TCM" = "Блокировать рекламу приложений";
+"BLOCK_POI" = "Блокировать рекламу мест";
+"FEATURE_BLOCK_SHOP_ADS" = "Блокирует видео с рекламой магазина";
+"FEATURE_BLOCK_TCM" = "Блокирует видео с рекламой приложений";
+"FEATURE_BLOCK_POI" = "Блокирует видео с рекламой мест";
+"FEATURE_REMOVE_DRAFT_WATERMARK" = "Удаляет водяной знак при сохранении постов или черновиков";
+"REMOVE_DRAFT_WATERMARK" = "Удалить водяной знак с фото";
+"FEATURE_HIDE_REPORT_BUTTON" = "Скрывает кнопку флага в навигационной панели личных сообщений.";
+"HIDE_REPORT_BUTTON" = "Скрыть кнопку 'Пожаловаться'";
+"FEATURE_DISABLE_TYPING_STICKER" = "Отключает автоматические рекомендации GIF во время печати";
+"DISABLE_TYPING_STICKER" = "Отключить стикер при печати";
+"RUSSIAN_FIX" = "Обход блокировки в России";
+"FEATURE_RUSSIAN_FIX" = "Включите это, чтобы снова заработала российская лента [НОВОЕ!]";
